@@ -1,0 +1,11 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\ADMIN\Desktop\kicadd\project one\GERBER\project one-F_Cu.gbr'.
+Plotted to 'C:\Users\ADMIN\Desktop\kicadd\project one\GERBER\project one-B_Cu.gbr'.
+Plotted to 'C:\Users\ADMIN\Desktop\kicadd\project one\GERBER\project one-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\ADMIN\Desktop\kicadd\project one\GERBER\project one-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\ADMIN\Desktop\kicadd\project one\GERBER\project one-F_Mask.gbr'.
+Plotted to 'C:\Users\ADMIN\Desktop\kicadd\project one\GERBER\project one-B_Mask.gbr'.
+Plotted to 'C:\Users\ADMIN\Desktop\kicadd\project one\GERBER\project one-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\ADMIN\Desktop\kicadd\project one\GERBER\project one-job.gbrjob'.
+Info: Done.
+Info: Done.
