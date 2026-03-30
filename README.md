@@ -1,46 +1,29 @@
-# 🔧 KiCad Journey – PCB Design
+# KiCad PCB Design Journey
 
-## 👋 About This Repository
-This repository documents my journey of learning PCB design using KiCad.  
-From basic schematics to complete PCB layouts, this repo showcases my progress in embedded hardware development.
+## About
+This repository contains my learning and projects in PCB design using KiCad.  
+It shows my progress from basic schematics to complete PCB layouts.
 
----
+## Tools
+- KiCad
+- GitHub
+- Arduino / Microcontrollers
 
-## 🎯 Objective
-- Learn PCB design from scratch
-- Understand schematic design and circuit connections
-- Convert schematics into PCB layouts
-- Practice real-world embedded hardware design
-
----
-
-## 🛠️ Tools & Software
-- KiCad (Schematic & PCB Design)
-- GitHub (Version Control)
-- Arduino / Microcontrollers (for testing)
-
----
-
-## 📚 What I Learned
-- Creating schematics in KiCad
-- Understanding electronic components & symbols
+## Skills Gained
+- Schematic design
 - Footprint assignment
-- PCB layout design
-- Routing tracks and managing layers
+- PCB layout & routing
 - Design Rule Check (DRC)
-- Generating Gerber files for manufacturing
+- Gerber file generation
 
----
+## Projects
+- Queaky Toy circuit
+- LED Blinker PCB  
+- 4x4 Keypad Interface  
+- LCD Interface Circuit  
 
-## 🚀 Future Goals
-- Design multilayer PCBs
-- Work on high-speed design basics
-- Create IoT-based PCB projects
-- Manufacture and test real boards
+## Goal
+To design and build reliable PCBs for embedded and IoT applications.
 
----
-
-## 💡 About Me
-I am an Embedded Systems enthusiast focused on C/C++, microcontrollers, and IoT.  
-This repository is part of my hands-on learning and project development.
-\
+## Author
+Vinu – Embedded Systems | C/C++ | IoT
